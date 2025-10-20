@@ -1,131 +1,180 @@
 text,label
-"Experienced in Python, pandas, scikit-learn, ML, building models and data pipelines",Data Scientist
-"Built React apps, JavaScript, HTML, CSS, Next.js, frontend performance optimizations",Frontend Engineer
-"Developed REST APIs with Node.js and Django, PostgreSQL, backend architecture",Backend Engineer
-"Managed CI/CD pipelines, Docker, Kubernetes, AWS infrastructure, Terraform",DevOps Engineer
-"Statistical analysis, machine learning, R, Python, modeling, data visualization",Data Scientist
-"React, Redux, CSS, responsive design, accessibility, frontend testing",Frontend Engineer
-"Microservices, Flask, FastAPI, databases, SQL, performance tuning",Backend Engineer
-"Infrastructure automation, Jenkins, Ansible, cloud migrations, monitoring",DevOps Engineer
-"Natural language processing, transformers, spaCy, text preprocessing",Data Scientist
-"TypeScript, React, component libraries, UI design systems, frontend architecture",Frontend Engineer
-"Deep learning, TensorFlow, PyTorch, CNNs, NLP models",Data Scientist
-"Backend architecture, Express.js, MongoDB, SQL, API design",Backend Engineer
-"AWS, GCP, cloud deployments, Terraform, Docker, CI/CD",DevOps Engineer
-"Data visualization, Tableau, Power BI, dashboards, reporting",Data Scientist
-"HTML, CSS, SASS, JavaScript, UI/UX implementation",Frontend Engineer
-"Server optimization, Node.js, Django, API security, databases",Backend Engineer
-"Automation scripts, Kubernetes clusters, cloud provisioning",DevOps Engineer
-"Machine learning pipelines, feature engineering, model evaluation",Data Scientist
-"React, Angular, UI testing, responsive web apps",Frontend Engineer
-"Database design, API integration, backend logic, Python, Java",Backend Engineer
-"CI/CD pipelines, monitoring, cloud architecture, Docker",DevOps Engineer
-"Text analytics, sentiment analysis, NLP preprocessing",Data Scientist
-"Frontend frameworks, component libraries, responsive design",Frontend Engineer
-"Backend microservices, RESTful APIs, database management",Backend Engineer
-"Infrastructure automation, cloud security, deployment pipelines",DevOps Engineer
-"Predictive modeling, regression, classification, Python, R",Data Scientist
-"Modern web development, HTML, CSS, JavaScript, frameworks",Frontend Engineer
-"Server-side development, API endpoints, database queries",Backend Engineer
-"Continuous integration, Docker, cloud infrastructure",DevOps Engineer
-"Data mining, feature extraction, ML model tuning",Data Scientist
-"UI/UX design, interactive web elements, frontend optimization",Frontend Engineer
-"Backend logic, microservices, Node.js, Python, database management",Backend Engineer
-"Cloud architecture, automation, Terraform, containerization",DevOps Engineer
-"Deep learning for NLP, text classification, model evaluation",Data Scientist
-"Frontend component development, React, responsive design",Frontend Engineer
-"API development, database management, server-side logic",Backend Engineer
-"Jenkins pipelines, cloud deployment, monitoring, DevOps",DevOps Engineer
-"Data analysis, visualization, statistical modeling, ML pipelines",Data Scientist
-"Frontend performance optimization, SPA, JavaScript, CSS",Frontend Engineer
-"Backend optimization, database queries, RESTful API development",Backend Engineer
-"Automation scripts, Docker, Kubernetes, CI/CD pipelines",DevOps Engineer
-"Machine learning, NLP, clustering, Python, data preprocessing",Data Scientist
-"UI design, React components, cross-browser compatibility",Frontend Engineer
-"Database management, API integration, backend frameworks",Backend Engineer
-"Cloud provisioning, infrastructure as code, automation",DevOps Engineer
-"Predictive analytics, regression, ML models, Python",Data Scientist
-"Responsive design, frontend frameworks, testing, CSS",Frontend Engineer
-"Server-side programming, API endpoints, database optimization",Backend Engineer
-"CI/CD setup, monitoring, container orchestration, cloud",DevOps Engineer
-"Text processing, feature engineering, model deployment",Data Scientist
-"Front-end JavaScript frameworks, UI design, component testing",Frontend Engineer
-"Backend service development, REST APIs, database schema design",Backend Engineer
-"Cloud automation, deployment pipelines, Docker, Kubernetes",DevOps Engineer
-"Data science projects, machine learning, data pipelines",Data Scientist
-"Web UI design, frontend frameworks, accessibility, CSS",Frontend Engineer
-"Server architecture, API endpoints, database design",Backend Engineer
-"Infrastructure automation, cloud deployment, monitoring, DevOps",DevOps Engineer
-"NLP pipelines, text classification, Python, ML models",Data Scientist
-"Frontend React components, UI/UX design, responsive web",Frontend Engineer
-"Backend development, microservices, database integration",Backend Engineer
-"Cloud infrastructure, CI/CD, containerization, automation",DevOps Engineer
-"Data preprocessing, feature selection, ML evaluation",Data Scientist
-"JavaScript, HTML, CSS, responsive web apps, frontend testing",Frontend Engineer
-"Backend frameworks, API design, database operations",Backend Engineer
-"Docker, Kubernetes, cloud setup, automation scripts",DevOps Engineer
-"Machine learning algorithms, predictive modeling, Python",Data Scientist
-"Front-end development, React, Angular, UI performance",Frontend Engineer
-"Server-side logic, database queries, API endpoints",Backend Engineer
-"Continuous integration, monitoring, cloud deployments",DevOps Engineer
-"NLP feature extraction, text classification, model training",Data Scientist
-"Frontend frameworks, component libraries, CSS optimization",Frontend Engineer
-"Backend service optimization, API design, database queries",Backend Engineer
-"Infrastructure as code, automation, cloud deployments",DevOps Engineer
-"Predictive analytics, ML pipelines, data preprocessing",Data Scientist
-"UI design, frontend testing, React, cross-browser",Frontend Engineer
-"API implementation, database handling, backend logic",Backend Engineer
-"Docker, Jenkins, Kubernetes, CI/CD pipelines",DevOps Engineer
-"Deep learning models, NLP tasks, PyTorch, TensorFlow",Data Scientist
-"Responsive web design, frontend frameworks, UI/UX",Frontend Engineer
-"Backend microservices, REST API design, SQL optimization",Backend Engineer
-"Cloud provisioning, infrastructure automation, monitoring",DevOps Engineer
-"Data cleaning, feature engineering, ML model building",Data Scientist
-"React, Angular, frontend testing, component libraries",Frontend Engineer
-"Backend API endpoints, database design, optimization",Backend Engineer
-"Docker, Kubernetes, CI/CD, cloud automation",DevOps Engineer
-"Text analytics, NLP preprocessing, model evaluation",Data Scientist
-"Front-end development, UI optimization, responsive design",Frontend Engineer
-"Backend service development, API integration, database schema",Backend Engineer
-"Automation pipelines, cloud deployment, monitoring scripts",DevOps Engineer
-"Machine learning, predictive analytics, Python, R",Data Scientist
-"Frontend frameworks, UI/UX, CSS optimization",Frontend Engineer
-"Backend architecture, database queries, API endpoints",Backend Engineer
-"Infrastructure automation, cloud monitoring, CI/CD pipelines",DevOps Engineer
-"NLP model training, text classification, feature extraction",Data Scientist
-"React UI components, responsive design, frontend performance",Frontend Engineer
-"Backend logic, RESTful APIs, database optimization",Backend Engineer
-"Docker, Kubernetes, cloud CI/CD, automation",DevOps Engineer
-"Data analysis, machine learning pipelines, model tuning",Data Scientist
-"UI design, frontend frameworks, JavaScript optimization",Frontend Engineer
-"Server-side development, database integration, API design",Backend Engineer
-"Cloud infrastructure, monitoring, deployment automation",DevOps Engineer
-"Text preprocessing, NLP pipelines, Python, model evaluation",Data Scientist
-"Frontend component libraries, UI/UX, responsive web",Frontend Engineer
-"Backend microservices, API endpoints, database design",Backend Engineer
-"Automation scripts, Docker, cloud deployment pipelines",DevOps Engineer
-"Predictive modeling, regression, classification, Python",Data Scientist
-"Responsive web UI, frontend frameworks, JavaScript, CSS",Frontend Engineer
-"Backend development, API integration, database schema",Backend Engineer
-"Infrastructure automation, CI/CD, monitoring, cloud",DevOps Engineer
-"Machine learning pipelines, NLP preprocessing, feature engineering",Data Scientist
-"Frontend testing, UI design, React, component libraries",Frontend Engineer
-"Server-side architecture, database optimization, APIs",Backend Engineer
-"Cloud automation, Docker, Kubernetes, CI/CD pipelines",DevOps Engineer
-"Deep learning NLP, transformers, PyTorch, model evaluation",Data Scientist
-"Front-end frameworks, responsive UI, CSS optimization",Frontend Engineer
-"Backend services, API design, database integration",Backend Engineer
-"Infrastructure as code, cloud deployments, monitoring",DevOps Engineer
-"Data cleaning, feature selection, predictive ML models",Data Scientist
-"UI/UX design, frontend frameworks, component testing",Frontend Engineer
-"Backend microservices, REST API, database handling",Backend Engineer
-"Automation pipelines, cloud monitoring, CI/CD",DevOps Engineer
-"Text analytics, NLP model training, Python, ML pipelines",Data Scientist
-"Frontend performance, React components, responsive design",Frontend Engineer
-"Backend logic, API endpoints, database optimization",Backend Engineer
-"Cloud infrastructure automation, Docker, CI/CD pipelines",DevOps Engineer
-"Predictive modeling, machine learning, Python, R",Data Scientist
-"UI design, frontend frameworks, cross-browser optimization",Frontend Engineer
-"Backend API integration, database management, server logic",Backend Engineer
-"Automation scripts, Kubernetes, cloud deployments, CI/CD",DevOps Engineer
-"NLP preprocessing, text classification, feature engineering",Data Scientist
+"Developed machine learning models using Python, pandas, and scikit-learn. Built data pipelines and performed data visualization using matplotlib and Tableau.",Data Scientist
+"Performed statistical analysis and predictive modeling in R and Python. Worked on feature engineering and model evaluation.",Data Scientist
+"Implemented NLP pipelines for text classification using spaCy and NLTK. Built sentiment analysis models for product reviews.",Data Scientist
+"Designed and trained deep learning models using TensorFlow and PyTorch for image and text data.",Data Scientist
+"Built and maintained SQL databases and performed data cleaning, aggregation, and ETL processes for analytics.",Data Scientist
+"Conducted A/B testing and hypothesis testing to optimize product features. Analyzed large datasets to extract actionable insights.",Data Scientist
+"Created interactive dashboards and reports using Power BI and Tableau for business stakeholders.",Data Scientist
+"Implemented machine learning pipelines with feature selection, model tuning, and cross-validation.",Data Scientist
+"Developed recommendation systems and predictive models using Python and scikit-learn.",Data Scientist
+"Worked on clustering and segmentation analysis to identify customer behavior patterns.",Data Scientist
+"Performed time-series forecasting using ARIMA and Prophet models. Built predictive models for sales data.",Data Scientist
+"Designed and deployed APIs to serve machine learning model predictions.",Data Scientist
+"Built data pipelines using Airflow and automated data extraction, transformation, and loading.",Data Scientist
+"Performed exploratory data analysis and visualizations using Python and Tableau.",Data Scientist
+"Developed classification and regression models for business metrics prediction.",Data Scientist
+"Implemented computer vision projects using OpenCV and convolutional neural networks.",Data Scientist
+"Applied dimensionality reduction techniques like PCA and t-SNE for high-dimensional datasets.",Data Scientist
+"Analyzed user engagement metrics and provided insights to product teams.",Data Scientist
+"Optimized machine learning models for performance and scalability.",Data Scientist
+"Worked on anomaly detection and fraud detection models.",Data Scientist
+"Designed dashboards to visualize KPIs for management.",Data Scientist
+"Performed clustering analysis using K-means and hierarchical clustering.",Data Scientist
+"Built predictive models using ensemble methods like Random Forest and XGBoost.",Data Scientist
+"Worked on data preprocessing and cleaning for structured and unstructured data.",Data Scientist
+"Implemented reinforcement learning experiments for recommendation engines.",Data Scientist
+"Analyzed marketing campaigns and measured ROI using statistical methods.",Data Scientist
+"Designed machine learning experiments and tracked metrics using MLflow.",Data Scientist
+"Built NLP pipelines for named entity recognition and text classification.",Data Scientist
+"Performed correlation analysis and feature importance evaluation for model building.",Data Scientist
+"Worked on A/B testing results analysis to improve user engagement.",Data Scientist
+"Designed dashboards and reports to track business KPIs.",Data Scientist
+"Developed predictive maintenance models for industrial equipment using Python.",Data Scientist
+"Built models to predict customer churn and recommend retention strategies.",Data Scientist
+"Performed model deployment using Flask and FastAPI for production.",Data Scientist
+"Analyzed social media data and sentiment trends using Python.",Data Scientist
+"Implemented time-series models for demand forecasting.",Data Scientist
+"Worked with big data tools like Spark and Hadoop for large-scale analytics.",Data Scientist
+"Performed regression analysis and built statistical models for sales prediction.",Data Scientist
+"Developed text summarization and recommendation system pipelines.",Data Scientist
+"Built data pipelines integrating APIs and database systems.",Data Scientist
+"Performed NLP feature engineering for classification tasks.",Data Scientist
+"Built interactive dashboards in Python using Plotly and Dash.",Data Scientist
+"Analyzed business metrics and provided actionable insights to management.",Data Scientist
+"Implemented clustering techniques to identify customer segments.",Data Scientist
+"Performed machine learning model tuning and hyperparameter optimization.",Data Scientist
+"Built deep learning models for NLP and computer vision tasks.",Data Scientist
+"Analyzed data quality issues and implemented cleaning solutions.",Data Scientist
+"Developed Python scripts for automation of repetitive data tasks.",Data Scientist
+"Built predictive analytics pipelines for marketing campaigns.",Data Scientist
+"Developed recommendation systems using collaborative filtering.",Data Scientist
+"Built scalable data pipelines using Python and SQL for analytics.",Data Scientist
+"Created ETL workflows to integrate multiple data sources.",Data Scientist
+"Implemented supervised and unsupervised learning algorithms for business problems.",Data Scientist
+"Optimized machine learning models for accuracy and performance.",Data Scientist
+"Developed React-based user interfaces with responsive design and reusable components.",Frontend Engineer
+"Implemented frontend testing using Jest and React Testing Library.",Frontend Engineer
+"Built web applications using HTML, CSS, JavaScript, and TypeScript.",Frontend Engineer
+"Worked on cross-browser compatibility and performance optimization.",Frontend Engineer
+"Integrated frontend applications with RESTful APIs and backend services.",Frontend Engineer
+"Developed responsive UI components using CSS Grid and Flexbox.",Frontend Engineer
+"Implemented state management in React using Redux and Context API.",Frontend Engineer
+"Built single-page applications (SPAs) using React and React Router.",Frontend Engineer
+"Optimized page load time and frontend performance using code splitting.",Frontend Engineer
+"Developed reusable UI components following design system guidelines.",Frontend Engineer
+"Worked on accessibility and UI/UX improvements for web applications.",Frontend Engineer
+"Implemented form validations and dynamic user input handling.",Frontend Engineer
+"Built interactive dashboards and charts using D3.js and Chart.js.",Frontend Engineer
+"Worked with API integration and asynchronous data fetching using Axios.",Frontend Engineer
+"Implemented responsive design for mobile and tablet screens.",Frontend Engineer
+"Built Next.js applications with server-side rendering.",Frontend Engineer
+"Used SASS and CSS modules for styling components.",Frontend Engineer
+"Developed frontend applications with Material-UI and Bootstrap.",Frontend Engineer
+"Implemented unit tests and end-to-end tests for frontend components.",Frontend Engineer
+"Optimized React applications for SEO and performance.",Frontend Engineer
+"Built interactive web elements and animations using JavaScript and CSS.",Frontend Engineer
+"Created dynamic dashboards with real-time data updates.",Frontend Engineer
+"Worked with component libraries for faster development.",Frontend Engineer
+"Implemented frontend authentication and session handling.",Frontend Engineer
+"Built progressive web apps (PWAs) using modern frontend frameworks.",Frontend Engineer
+"Developed custom hooks and reusable utilities for React projects.",Frontend Engineer
+"Integrated frontend with GraphQL APIs.",Frontend Engineer
+"Worked on UI component testing and snapshot testing.",Frontend Engineer
+"Implemented lazy loading and code splitting for faster web apps.",Frontend Engineer
+"Built responsive forms and dynamic input validations.",Frontend Engineer
+"Optimized images and assets for faster load times.",Frontend Engineer
+"Worked on frontend security best practices and XSS prevention.",Frontend Engineer
+"Implemented localization and internationalization in web apps.",Frontend Engineer
+"Developed backend APIs using Node.js, Express, and Django.",Backend Engineer
+"Designed RESTful services and integrated with PostgreSQL and MongoDB.",Backend Engineer
+"Implemented microservices architecture with Flask and FastAPI.",Backend Engineer
+"Built database schemas and optimized SQL queries for performance.",Backend Engineer
+"Worked on server-side logic, authentication, and authorization.",Backend Engineer
+"Implemented caching and performance optimization for backend APIs.",Backend Engineer
+"Built and deployed Dockerized backend services.",Backend Engineer
+"Worked on API versioning and documentation using Swagger.",Backend Engineer
+"Implemented background jobs and task scheduling using Celery.",Backend Engineer
+"Built secure and scalable backend services with JWT authentication.",Backend Engineer
+"Worked on asynchronous programming and event-driven architecture.",Backend Engineer
+"Implemented API rate limiting and logging for backend services.",Backend Engineer
+"Developed CRUD APIs with proper error handling and validations.",Backend Engineer
+"Integrated third-party APIs and external services.",Backend Engineer
+"Implemented unit and integration testing for backend endpoints.",Backend Engineer
+"Built GraphQL APIs and integrated with frontend applications.",Backend Engineer
+"Worked on server deployment, Nginx configuration, and monitoring.",Backend Engineer
+"Implemented database migrations and version control.",Backend Engineer
+"Optimized backend services for high concurrency and performance.",Backend Engineer
+"Built secure user authentication and role-based access control.",Backend Engineer
+"Implemented logging, monitoring, and alerting for backend systems.",Backend Engineer
+"Worked on cloud deployment using AWS and Docker containers.",Backend Engineer
+"Developed backend services with proper API documentation.",Backend Engineer
+"Implemented real-time communication using WebSockets.",Backend Engineer
+"Built serverless backend functions using AWS Lambda.",Backend Engineer
+"Implemented unit and integration testing pipelines.",Backend Engineer
+"Managed CI/CD pipelines for backend deployment.",Backend Engineer
+"Implemented database optimization and indexing strategies.",Backend Engineer
+"Built DevOps pipelines using Jenkins, GitLab CI/CD, Docker, and Kubernetes.",DevOps Engineer
+"Automated cloud deployments and infrastructure as code using Terraform and Ansible.",DevOps Engineer
+"Monitored servers and applications using Prometheus and Grafana.",DevOps Engineer
+"Managed AWS, Azure, and GCP cloud environments.",DevOps Engineer
+"Implemented container orchestration with Kubernetes and Docker Swarm.",DevOps Engineer
+"Configured CI/CD pipelines for multiple environments.",DevOps Engineer
+"Performed cloud security audits and implemented best practices.",DevOps Engineer
+"Automated testing and deployment workflows for microservices.",DevOps Engineer
+"Implemented infrastructure monitoring and alerting solutions.",DevOps Engineer
+"Managed version control and code deployments using Git and GitHub.",DevOps Engineer
+"Worked on server provisioning, scaling, and load balancing.",DevOps Engineer
+"Implemented automated rollback and recovery procedures.",DevOps Engineer
+"Optimized cloud costs and resource utilization.",DevOps Engineer
+"Managed Docker container images and deployments.",DevOps Engineer
+"Worked on logging, monitoring, and performance tuning of systems.",DevOps Engineer
+"Implemented automated infrastructure testing using Terraform and Terratest.",DevOps Engineer
+"Built and maintained CI/CD pipelines for containerized applications.",DevOps Engineer
+"Worked on configuration management using Ansible and Chef.",DevOps Engineer
+"Implemented cloud-native deployment strategies.",DevOps Engineer
+"Worked on high-availability and fault-tolerant architectures.",DevOps Engineer
+"Implemented automated build and release processes.",DevOps Engineer
+"Configured monitoring dashboards and alerting in Grafana and Prometheus.",DevOps Engineer
+"Managed user accounts, recruitment, and employee onboarding processes.",HR
+"Developed HR policies, employee engagement initiatives, and performance appraisal systems.",HR
+"Managed payroll, benefits administration, and compliance with labor laws.",HR
+"Handled employee relations, grievance redressal, and conflict resolution.",HR
+"Implemented talent acquisition strategies and coordinated interviews.",HR
+"Maintained HRIS and employee records for multiple departments.",HR
+"Organized training sessions, workshops, and team-building activities.",HR
+"Conducted exit interviews and analyzed turnover metrics.",HR
+"Developed recruitment campaigns and sourced candidates from multiple channels.",HR
+"Managed workforce planning and succession planning initiatives.",HR
+"Implemented employee engagement surveys and feedback mechanisms.",HR
+"Coordinated onboarding programs and orientation sessions.",HR
+"Worked on performance review and appraisal documentation.",HR
+"Handled HR compliance audits and reporting requirements.",HR
+"Implemented HR analytics dashboards to monitor employee metrics.",HR
+"Managed internal communications and HR announcements.",HR
+"Developed training materials and e-learning modules.",HR
+"Conducted salary benchmarking and compensation analysis.",HR
+"Implemented HR policies to improve employee satisfaction.",HR
+"Managed recruitment for technical and non-technical positions.",HR
+"Monitored HR KPIs and workforce analytics.",HR
+"Worked on diversity and inclusion initiatives.",HR
+"Handled employee benefits enrollment and management.",HR
+"Managed employee engagement programs and recognition initiatives.",HR
+"Conducted workforce surveys and analyzed results.",HR
+"Handled HR software systems and integrations.",HR
+"Worked with managers to address employee performance issues.",HR
+"Implemented HR reporting and compliance tracking.",HR
+"Managed candidate pipeline and interview scheduling.",HR
+"Coordinated training programs and employee development initiatives.",HR
+"Worked on HR process improvements and automation.",HR
+"Handled recruitment metrics tracking and reporting.",HR
+"Developed HR dashboards for management review.",HR
+"Implemented onboarding checklists and employee orientation processes.",HR
+"Managed employee exit processes and documentation.",HR
+"Worked on talent retention and succession planning.",HR
+"Conducted employee engagement focus groups.",HR
+"Managed HR communication channels and announcements.",HR
+"Handled payroll audits and compliance checks.",HR
+"Implemented HR analytics for predictive workforce planning.",HR
+"Worked on compensation and benefits benchmarking.",HR
+"Managed performance appraisal systems and feedback cycles.",HR
